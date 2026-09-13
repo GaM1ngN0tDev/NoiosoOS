@@ -6,11 +6,11 @@ Last Year I Got This Idea To Build A OS That Does Not bother you limits for 10 m
 
 # Apps
 - NoiosoTime
-- NoiosoLauncher
+- NoiosoHome
 - Timer
 - Phone
 - Messages
-- Store
+- Store (that has even power to get stuff from the play store without your data getting stolen or been asked to sign in)
 - Podcast
 - Settings
 - Gallery
