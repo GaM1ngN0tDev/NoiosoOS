@@ -8,7 +8,7 @@ Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italia
 
 ---
 
-## The Philosophy: Why NoiosoOS?
+## Why NoiosoOS?
 
 The concept started with a simple rule to fight mindless scrolling: **The 10+5 Rule.** 
 
