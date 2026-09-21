@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">NoiosoHome</string>
+
+    <string name="app_phone">phone</string>
+    <string name="app_messages">messages</string>
+    <string name="app_camera">camera</string>
+    <string name="app_gallery">gallery</string>
+
+    <string name="enable_notification_access">enable notification access</string>
+</resources>
