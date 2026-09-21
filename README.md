@@ -34,6 +34,9 @@ To maintain a cohesive, distraction-free aesthetic, NoiosoOS replaces standard b
 * **Camera & Gallery:** Clean, tracker-free AOSP multimedia tools that focus purely on capturing and viewing your memories without cloud-bloat.
 * **Timer & Podcast:** Simplified utilities to handle your daily routines without pushing algorithmic recommendations.
 
+### Faq 
+* ** Every App That You See On NoiosoOS Is Open Source On This Repo You Can Use It But Please Check License [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE)
+
 ---
 
 ## 🤝 How to Contribute & Support
@@ -49,5 +52,5 @@ If you are an Android developer, ROM maintainer, or designer, you can help by:
 
 ## 📄 License
 
-This project is open-source. (Distributed under the MIT License).
+This project is open-source. (Distributed under the Apache License 2.0 License) Please Check This [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE)
 
