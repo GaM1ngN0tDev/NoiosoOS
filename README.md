@@ -35,7 +35,7 @@ To maintain a cohesive, distraction-free aesthetic, NoiosoOS replaces standard b
 * **Timer & Podcast:** Simplified utilities to handle your daily routines without pushing algorithmic recommendations.
 
 ### Faq 
-* ** Every App That You See On NoiosoOS Is Open Source On This Repo You Can Use It But Please Check License [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE)
+* Every App That You See On NoiosoOS Is Open Source On This Repo You Can Use It But Please Check License [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE)
 
 ---
 
