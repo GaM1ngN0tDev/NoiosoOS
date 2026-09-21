@@ -6,7 +6,7 @@ Last Year I Got This Idea To Build A OS That Does Not bother you limits for 10 m
 
 # Apps
 - NoiosoTime (made by me)
-- NoiosoHome (made by me default launcher minimalist) 
+- NoiosoHome (Available Now Still In Beta May Not Work Or Somestuff Is In Other Lang) 
 - Timer (normal aosp app)
 - Phone (aosp but with more material expressive 3)
 - Messages (aosp but with more stuff)
