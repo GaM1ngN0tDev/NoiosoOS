@@ -1,18 +1,53 @@
-# NoiosoOS
-Android OS That Is Non Distractive And Does Not Spy On You Open Source (work in progress)
+# NoiosoOS 📱
 
-# Why I Did This OS
-Last Year I Got This Idea To Build A OS That Does Not bother you limits for 10 mins social apps if you want more you will get only 5 min more (15) and had a minimal launcher it's still a work in progress hopefully I don't have any machines to continue the OS but I can show the apps but those are not still worked on it
+> A minimalist, privacy-first Android operating system built to protect your data and save you from screen addiction. 
 
-# Apps That Are Preinstalled
-- NoiosoTime (Under Progress This NoiosoTime App Is A Ticking Time Bomb That Makes You Stop Looking At Social Look On Top You Will Have 10 Mins With More 5 Mins That's It Then Your Locked Out From Social Media For Today You Will Need To Wait Tomorrow)
-- NoiosoHome (Available Now Still In Beta May Not Work Or Some Stuff Is In Other Lang)
-- Browser (Changed With Prob Aosp Or Made With Chromium With A Bit Of Minimalist Style)     
-- Timer (Normal Aosp APP)
-- Phone (Aosp But With More Material Expressive 3)
-- Messages (Aosp But Minimalist Style)
-- Store (Work In Progress We Want To Make It With More Apps But With Limits For Sure We Are Thinking To Make It Like Aurora Store So You Can Get Open Soruced Apps And Your Apps From The Google Play Store)
-- Podcast (Same Aosp But Minimalist Style)
-- Settings (Aosp Settings But Minimalist Style)
-- Gallery (Aosp Gallery But Minimalist Style)
-- Camera (Aosp Camera But Minimalist Style) 
+Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"Boring OS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a beautiful, distraction-free interface. 
+
+🚧 **Project Status:** *Work in Progress (WIP). Due to current hardware limitations, full OS compilation is on pause. Development is currently focused on the custom preinstalled application suite.*
+
+---
+
+## The Philosophy: Why NoiosoOS?
+
+The concept started with a simple rule to fight mindless scrolling: **The 10+5 Rule.** 
+
+By default, NoiosoOS strictly limits your daily social media usage to **10 minutes**. If you absolutely need more time, you can request a final **5-minute extension**. Once those 15 total minutes are up, NoiosoOS locks you out of social media apps for the rest of the day. No overrides, no loops—you have to wait until tomorrow. 
+
+Combined with an integrated minimalist launcher, NoiosoOS turns your phone back into a utility tool, not an attention trap.
+
+---
+
+## The Preinstalled App Suite
+
+To maintain a cohesive, distraction-free aesthetic, NoiosoOS replaces standard bloated applications with heavily optimized, Material You (Material 3) AOSP variants and custom utilities.
+
+### Core Utilities
+* **NoiosoTime (WIP):** The core system engine. It acts as a digital "ticking time bomb" for social media apps, enforcing the strict 10+5 minute daily lockout rule.
+* **NoiosoHome (Beta):** The default minimalist launcher. It eliminates colorful, addictive icon grids in favor of a clean, intentional interface. *(Note: Currently in beta, visual language translations are underway).*
+* **NoiosoStore (WIP):** A privacy-respecting app repository. Designed similarly to Aurora Store, it allows you to securely fetch open-source apps and your essential Google Play Store applications, while encouraging mindful app downloading.
+
+### Everyday Tools
+* **Browser:** A lightweight, Chromium-based browser stripped down to a minimal, distraction-free layout.
+* **Phone & Messages:** Built on AOSP foundations but heavily refreshed with expressive Material 3 design cues.
+* **Settings:** A streamlined version of the Android settings app, hidden away so you spend less time tweaking options.
+* **Camera & Gallery:** Clean, tracker-free AOSP multimedia tools that focus purely on capturing and viewing your memories without cloud-bloat.
+* **Timer & Podcast:** Simplified utilities to handle your daily routines without pushing algorithmic recommendations.
+
+---
+
+## 🤝 How to Contribute & Support
+
+Because I currently **lack the high-powered machine required to compile full Android ROM builds**, help from the open-source community is highly appreciated!
+
+If you are an Android developer, ROM maintainer, or designer, you can help by:
+1. Contributing to the standalone application repositories (like `NoiosoHome`).
+2. Helping set up automated GitHub Actions/CI pipelines to build the system images remotely.
+3. Translating the launcher UI strings into multiple languages.
+
+---
+
+## 📄 License
+
+This project is open-source. (Distributed under the MIT License).
+
