@@ -27,7 +27,7 @@ Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italia
 
 The concept started with a simple rule to fight mindless scrolling: **the 10+5 rule.**
 
-By default, NoiosoOS strictly limits your daily social media usage to **10 minutes**. If you absolutely need more, you can request a final **5-minute extension**. Once those 15 total minutes are up, NoiosoOS locks you out of social apps for the rest of the day — no overrides, no loops. You wait until tomorrow.
+By default, NoiosoOS strictly limits your daily social media usage to **10 minutes**. If you absolutely need more, you can request a final **5-minute extension**. Once those 15 total minutes are up, NoiosoOS locks you out of social apps for the rest of the day no overrides, no loops. You wait until tomorrow.
 
 Combined with an integrated minimalist launcher, NoiosoOS turns your phone back into a utility tool, not an attention trap.
 
