@@ -50,7 +50,7 @@ To keep a cohesive, distraction-free aesthetic, NoiosoOS replaces standard bloat
 * **Camera & Gallery** clean, tracker-free AOSP multimedia tools that focus purely on capturing and viewing your memories, no cloud bloat.
 * **Timer & Podcast** simplified utilities for your daily routine, with no algorithmic recommendations pushed at you.
 
-Every app you see here is open source, in this repo. You're welcome to use it — just check the [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE) first.
+Every app you see here is open source, in this repo. You're welcome to use it just check the [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE) first.
 
 ---
 
