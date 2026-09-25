@@ -1,4 +1,4 @@
-# NoiosoOS 📱
+# NoiosoOS
 
 > A minimalist, privacy-first Android operating system built to protect your data and save you from screen addiction. 
 
