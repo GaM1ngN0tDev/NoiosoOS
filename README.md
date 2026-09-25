@@ -41,7 +41,7 @@ To maintain a cohesive, distraction-free aesthetic, NoiosoOS replaces standard b
 
 ## 🤝 How to Contribute & Support
 
-Because I currently **lack the high-powered machine required to compile full Android ROM builds**, help from the open-source community is highly appreciated!
+Because I currently **lack the high-powered machine and space of disk required to compile full Android ROM builds**, help from the open-source community is highly appreciated!
 
 If you are an Android developer, ROM maintainer, or designer, you can help by:
 1. Contributing to the standalone application repositories (like `NoiosoHome`).
