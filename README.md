@@ -47,6 +47,7 @@ If you are an Android developer, ROM maintainer, or designer, you can help by:
 1. Contributing to the standalone application repositories (like `NoiosoHome`).
 2. Helping set up automated GitHub Actions/CI pipelines to build the system images remotely.
 3. Translating the launcher UI strings into multiple languages.
+
 (I'm still thinking how to make the UI of the system and other stuff)
 
 ---
