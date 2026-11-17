@@ -19,7 +19,7 @@
 
 Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"BoringOS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a clean, distraction-free interface.
 
-🚧 **Project status:** work in progress. Due to current hardware limitations, full OS compilation is on pause; development is currently focused on the custom, preinstalled application suite.
+🚧 **Project status:** work in progress. Due to current hardware limitations, full OS compilation is on pause, development is currently focused on the custom, preinstalled application suite.
 
 ---
 
