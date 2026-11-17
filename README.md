@@ -17,7 +17,7 @@
 
 > A minimalist, privacy-first Android operating system built to protect your data and save you from screen addiction.
 
-Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"boring OS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a clean, distraction-free interface.
+Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"BoringOS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a clean, distraction-free interface.
 
 🚧 **Project status:** work in progress. Due to current hardware limitations, full OS compilation is on pause — development is currently focused on the custom, preinstalled application suite.
 
