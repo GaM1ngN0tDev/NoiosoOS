@@ -17,7 +17,7 @@
 
 > A minimalist, privacy-first Android operating system built to protect your data and save you from screen addiction.
 
-Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"BoringOS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a clean, distraction-free interface.
+Modern smartphones are engineered to hijack your attention. **NoiosoOS** (Italian for *"BoringOS"*) is designed to do the exact opposite. It gives you your time back through aggressive, hard-coded social media limits and a clean, distraction free interface.
 
 🚧 **Project status:** work in progress. Due to current hardware limitations, full OS compilation is on pause, development is currently focused on the custom, preinstalled application suite.
 
@@ -47,7 +47,7 @@ To keep a cohesive, distraction-free aesthetic, NoiosoOS replaces standard bloat
 * **Browser** a lightweight, Chromium-based browser stripped down to a minimal, distraction-free layout.
 * **Messages** built on AOSP foundations, refreshed with Material 3 design.
 * **Settings** a streamlined version of the Android settings app, tucked away so you spend less time tweaking options.
-* **Camera & Gallery** clean, tracker-free AOSP multimedia tools that focus purely on capturing and viewing your memories, no cloud bloat.
+* **Camera & Gallery** clean, tracker free AOSP multimedia tools that focus purely on capturing and viewing your memories, no cloud bloat.
 * **Timer & Podcast** simplified utilities for your daily routine, with no algorithmic recommendations pushed at you.
 
 Every app you see here is open source, in this repo. You're welcome to use it just check the [Apache License 2.0](https://github.com/GaM1ngN0tDev/NoiosoOS/blob/main/LICENSE) first.
